@@ -56,5 +56,5 @@ plt.show()
 ```
 Zgornja koda prebere .csv datoteko in izriše horizontalni stolpični diagram.
 
-
+![Stolpični diagram](https://github.com/bajicluka01/PR19LB/barplot1.png)
 
